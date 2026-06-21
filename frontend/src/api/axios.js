@@ -2,7 +2,7 @@ import axios from 'axios'
 import { useAuthStore } from '../stores/auth'
 
 const api = axios.create({
-  baseURL: 'http://localhost:8080',
+  baseURL: 'http://elibrary.freepage.cc/public',
   headers: {
     'Content-Type': 'application/json',
     'Accept':       'application/json',
