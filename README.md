@@ -44,4 +44,4 @@ dependency PHP, lalu jalankan server dengan perintah `php spark serve --host 0.0
 karena backend akan aktif di http://localhost:8080.
 
 # Link Video Demo Presentasi Projek
-(https://youtu.be/K1vNUgjgnpY)
+([https://youtu.be/K1vNUgjgnpY](https://youtu.be/ztB8Qbm3nsw))
